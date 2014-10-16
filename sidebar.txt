@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[any:home|Door43 (any)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-any|d43-any repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-any/archive/master.zip|d43-any.zip]]
+
+**Recent Changes**
+{{changes>ns = any}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/any|Ethnologue data]]
+
